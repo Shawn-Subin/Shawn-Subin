@@ -1,11 +1,7 @@
 # <div align="center">
 
 #  Hi, I'm Shawn Subin Philip
-### **CSE (Artificial Intelligence) Student • Full Stack Learner • Tech Enthusiast**
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Shawn+👋;B.Tech+CSE+(AI)+at+MITS+Kochi;Exploring+Full+Stack+Web+Development;Building+creative+tools+%26+learning+every+day!" alt="Typing SVG" />
-</a>
+### **B.Tech CSE (Artificial Intelligence) Student • Full Stack Learner • Tech Enthusiast**
 
 <p align="center">
   <a href="https://github.com/Shawn-Subin"><img src="https://img.shields.io/badge/Status-Learning%20Full%20Stack-8A2BE2?style=flat-square" alt="Status Badge"></a>
@@ -22,6 +18,7 @@
 - 🎓 Second-year **B.Tech Computer Science & Engineering (Artificial Intelligence)** student at **Muthoot Institute of Technology and Science (MITS)**, Kochi.
 - 💻 Passionate about **Full Stack Web Development**, mastering core web technologies, and turning ideas into responsive applications.
 - 🔭 **Currently Building:** Practical automation utilities and modern web interfaces.
+- 🎨 **Design & Prototyping:** Wireframing and building interactive UI concepts in **Figma**.
 - 🤝 **Open to:** Hackathons, student collaborations, open-source projects, and developer discussions.
 - 📍 **Based in:** Kochi, Kerala, India.
 
