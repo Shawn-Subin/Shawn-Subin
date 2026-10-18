@@ -1,6 +1,6 @@
 # <div align="center">
 
-# 👋 Hi, I'm Shawn Subin Philip
+#  Hi, I'm Shawn Subin Philip
 ### **CSE (Artificial Intelligence) Student • Full Stack Learner • Tech Enthusiast**
 
 <a href="https://git.io/typing-svg">
@@ -22,7 +22,6 @@
 - 🎓 Second-year **B.Tech Computer Science & Engineering (Artificial Intelligence)** student at **Muthoot Institute of Technology and Science (MITS)**, Kochi.
 - 💻 Passionate about **Full Stack Web Development**, mastering core web technologies, and turning ideas into responsive applications.
 - 🔭 **Currently Building:** Practical automation utilities and modern web interfaces.
-- 🎨 **Design & Prototyping:** Wireframing and building interactive UI concepts in **Figma**.
 - 🤝 **Open to:** Hackathons, student collaborations, open-source projects, and developer discussions.
 - 📍 **Based in:** Kochi, Kerala, India.
 
@@ -68,9 +67,6 @@
 | :--- | :--- | :--- |
 | [**Attendence-auto**](https://github.com/Shawn-Subin/Attendence-auto) | HTML • JavaScript | Automation utility designed to streamline and track student attendance logs. |
 | [**folio**](https://github.com/Shawn-Subin/folio) | HTML • CSS • JavaScript | Personal portfolio website showcasing projects, skillset, and developer journey. |
-| [**Mitzegle**](https://github.com/Shawn-Subin/Mitzegle) | TypeScript • Node.js | Real-time anonymous one-to-one chat application with instant pairing and skipping. |
-| **TIDE AI** | UI/UX • Figma | AI-powered task management concept featuring an interactive Figma prototype. |
-| **AI Waste Segregation System** | AI/ML Concept • Python | Smart classification micro-project with business model and feasibility study. |
 
 ---
 
@@ -79,14 +75,14 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/Shawn-Subin">
+  <a href="https://github.com/Shawn-Subin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/shawn-subin-58728137b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:shawnsubin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
