@@ -1,6 +1,6 @@
 # <div align="center">
 
-#  Hi, I'm Shawn Subin Philip
+# 👋 Hi, I'm Shawn Subin Philip
 ### **B.Tech CSE (Artificial Intelligence) Student • Full Stack Learner • Tech Enthusiast**
 
 <p align="center">
@@ -16,8 +16,8 @@
 ## ⚡ About Me
 
 - 🎓 Second-year **B.Tech Computer Science & Engineering (Artificial Intelligence)** student at **Muthoot Institute of Technology and Science (MITS)**, Kochi.
-- 💻 Passionate about **Full Stack Web Development**, mastering core web technologies, and turning ideas into responsive applications.
-- 🔭 **Currently Building:** Practical automation utilities and modern web interfaces.
+- 💻 Passionate about **Full Stack Web Development** and **AI Integration**, turning creative ideas into responsive, practical applications.
+- 🔭 **Currently Building:** Full-stack Python & JavaScript web apps, automation utilities, and interactive mini-games.
 - 🎨 **Design & Prototyping:** Wireframing and building interactive UI concepts in **Figma**.
 - 🤝 **Open to:** Hackathons, student collaborations, open-source projects, and developer discussions.
 - 📍 **Based in:** Kochi, Kerala, India.
@@ -27,12 +27,13 @@
 ## 🛠️ Languages & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,figma,vscode,latex&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,fastapi,git,github,figma,vscode,latex&perline=11" alt="Tech Stack Icons" />
 </p>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Programming & Scripting** | `JavaScript (ES6+)` `TypeScript` `Python` |
+| **Backend & Frameworks** | `FastAPI` `REST APIs` `Google Gemini API` |
 | **Web & Markup** | `HTML5` `CSS3` `LaTeX` |
 | **Design & Prototyping** | `Figma` |
 | **Version Control & Dev Tools** | `Git` `GitHub` `VS Code` |
@@ -62,6 +63,7 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| [**RatioBot**](https://github.com/Shawn-Subin/RatioBot) | Python • FastAPI • JavaScript • Gemini AI | Dystopian rigged CAPTCHA mini-game & AI roasting chatbot powered by FastAPI and Google Gemini. |
 | [**Attendence-auto**](https://github.com/Shawn-Subin/Attendence-auto) | HTML • JavaScript | Automation utility designed to streamline and track student attendance logs. |
 | [**folio**](https://github.com/Shawn-Subin/folio) | HTML • CSS • JavaScript | Personal portfolio website showcasing projects, skillset, and developer journey. |
 
