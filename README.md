@@ -1,74 +1,97 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00f5ff,50:7b2ff7,100:ff00c8&text=Shawn%20Subin%20Philip&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CSE%20(AI)%20%7C%20Learning%20Full%20Stack%20%7C%20Exploring%20Options&descAlignY=58&descSize=18" width="100%" alt="banner" />
+# <div align="center">
+
+# 👋 Hi, I'm Shawn Subin Philip
+### **CSE (Artificial Intelligence) Student • Full Stack Learner • Tech Enthusiast**
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Shawn+👋;B.Tech+CSE+(AI)+at+MITS+Kochi;Exploring+Full+Stack+Web+Development;Building+creative+tools+%26+learning+every+day!" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shawn+%F0%9F%91%8B;B.Tech+CSE+(AI)+%40+MITS%2C+Kochi;Learning+Full+Stack+Development;Designing+in+Figma%2C+building+in+code" alt="typing" />
+  <a href="https://github.com/Shawn-Subin"><img src="https://img.shields.io/badge/Status-Learning%20Full%20Stack-8A2BE2?style=flat-square" alt="Status Badge"></a>
+  <a href="https://github.com/Shawn-Subin"><img src="https://img.shields.io/badge/Location-Kochi%2C%20Kerala%2C%20India-blue?style=flat-square" alt="Location Badge"></a>
+  <a href="https://github.com/Shawn-Subin"><img src="https://img.shields.io/badge/Institution-MITS%20Kochi-orange?style=flat-square" alt="Institution Badge"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shawn2713&label=PROFILE%20VIEWS&color=7b2ff7&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00f5ff?style=for-the-badge&labelColor=0d1117" alt="status" />
-  <img src="https://img.shields.io/badge/BASE-KOCHI%2C%20KERALA-ff00c8?style=for-the-badge&labelColor=0d1117" alt="location" />
-</p>
+</div>
 
 ---
 
 ## ⚡ About Me
 
-I'm a second-year **B.Tech Computer Science & Engineering (Artificial Intelligence)** student at **Muthoot Institute of Technology and Science, Kochi**.
-I'm learning full stack development, building small projects to figure out what I enjoy most, and designing UIs in Figma along the way.
-
-- 🔭 Currently learning: **Full Stack Development**
-- 🎨 Design side: **Figma** prototypes and UI concepts
-- 🤝 Open to: collabs, hackathons, and project ideas
-- 📫 Reach me: **your-email@example.com** or [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00f5ff" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=7b2ff7" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff00c8" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00f5ff" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7b2ff7" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff00c8" />
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00f5ff" />
-  <img src="https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=7b2ff7" />
-</p>
-
-> Edit this list so it only has things you've actually used.
+- 🎓 Second-year **B.Tech Computer Science & Engineering (Artificial Intelligence)** student at **Muthoot Institute of Technology and Science (MITS)**, Kochi.
+- 💻 Passionate about **Full Stack Web Development**, mastering core web technologies, and turning ideas into responsive applications.
+- 🔭 **Currently Building:** Practical automation utilities and modern web interfaces.
+- 🎨 **Design & Prototyping:** Wireframing and building interactive UI concepts in **Figma**.
+- 🤝 **Open to:** Hackathons, student collaborations, open-source projects, and developer discussions.
+- 📍 **Based in:** Kochi, Kerala, India.
 
 ---
 
-## 🚀 Projects
-
-| Project | What it is |
-|---|---|
-| [**folio**](https://github.com/Shawn-Subin/folio) | My personal portfolio site (HTML) |
-| [**Attendence-auto**](https://github.com/Shawn-Subin/Attendence-auto) | Attendance automation tool (HTML) |
-| **TIDE AI** | AI task manager concept, designed in Figma with an interactive prototype |
-| **AI Waste Segregation System** | Group micro project on AI-based waste sorting, with report and business plan |
-| [**Mitzegle**](https://github.com/Shawn-Subin/Mitzegle) | Fork of a real-time anonymous one-to-one chat app (TypeScript) |
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Languages & Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shawn2713&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00c8&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn2713&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,figma,vscode,latex&perline=10" alt="Tech Stack Icons" />
+</p>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming & Scripting** | `JavaScript (ES6+)` `TypeScript` `Python` |
+| **Web & Markup** | `HTML5` `CSS3` `LaTeX` |
+| **Design & Prototyping** | `Figma` |
+| **Version Control & Dev Tools** | `Git` `GitHub` `VS Code` |
+
+---
+
+## 📊 GitHub Analytics & Commit Activity
+
+<div align="center">
+
+> *Live metrics and contributions dynamically updated from GitHub.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shawn-Subin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shawn's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Subin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawn2713&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00c8&fire=00f5ff&currStreakLabel=00f5ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shawn-Subin&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </p>
+
+</div>
 
 ---
 
+## 🚀 Featured Projects & Repositories
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| [**Attendence-auto**](https://github.com/Shawn-Subin/Attendence-auto) | HTML • JavaScript | Automation utility designed to streamline and track student attendance logs. |
+| [**folio**](https://github.com/Shawn-Subin/folio) | HTML • CSS • JavaScript | Personal portfolio website showcasing projects, skillset, and developer journey. |
+| [**Mitzegle**](https://github.com/Shawn-Subin/Mitzegle) | TypeScript • Node.js | Real-time anonymous one-to-one chat application with instant pairing and skipping. |
+| **TIDE AI** | UI/UX • Figma | AI-powered task management concept featuring an interactive Figma prototype. |
+| **AI Waste Segregation System** | AI/ML Concept • Python | Smart classification micro-project with business model and feasibility study. |
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
 <p align="center">
-  <i>"Learning in public, one commit at a time."</i>
+  <a href="https://github.com/Shawn-Subin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff00c8,50:7b2ff7,100:00f5ff&section=footer" width="100%" alt="footer" />
+<p align="center">
+  <i>⭐️ Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out for collaborations.</i>
+</p>
+
+</div>
